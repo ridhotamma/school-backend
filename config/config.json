@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "ridho2002",
+    "database": "tutorial_postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "ridho2002",
+    "database": "tutorial_postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "ridho2002",
+    "database": "tutorial_postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
